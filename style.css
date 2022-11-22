@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+    margin: 0px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1 {
+    font-size: 20px;
+    border: solid #17A491 3px;
+    text-align: center;
+}
+
+h2 {
+    background-color: #17A491;
+    padding: 1%;
+    border-radius: 5px;
+    color: white;
+}
+
+.imagenes {
+    height: 50%;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.tabla,.imagenes {
+    border: solid #17A491 1px;
+}
+
+.texto1 {
+    text-decoration: underline;
+    color: blueviolet;    
+}
+
+.texto2 {
+    color: blue;
+    font-weight: bolder;
+}
+
+span {
+    text-decoration: underline;
+    background-color: #17A491;
+}
+
+.tabla2 {
+    background-color: #17A491;
+    border-radius: 5px;
+    color: white;
+}
